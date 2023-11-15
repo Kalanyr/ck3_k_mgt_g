@@ -5,5 +5,5 @@ tags={
 }
 name="More Congenital Traits - CV - Positive Giant SA"
 picture="thumbnail.png"
-supported_version="1.10.*"
+supported_version="1.11.*"
 path="mod/k_mgt_g"
